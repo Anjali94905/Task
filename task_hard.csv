@@ -1,0 +1,9 @@
+Startup_ID,Name,Industry,Employee_Count,Revenue_M,Country,Noise_Index
+1,CloudScale,SaaS,,15.5,USA,xhj92
+2,FinFlow,Fintech,45,,UK,pqlm1
+3,PayPals,Fintech,50,5.1,USA,zxyv5
+4,Ledgerly,Fintech,22,2.1,Estonia,999aa
+5,GigaCorp,SaaS,999999,0.5,USA,lkhj8
+... (scattered nulls)
+50,GhostFoundry,SaaS,10,-5000,UK,abcde
+... (random strings in Noise_Index for all 100 rows)

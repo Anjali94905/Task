@@ -1,0 +1,7 @@
+Startup_ID,Name,Industry,Employee_Count,Revenue_M,Country
+1,CloudScale,SaaS,120,15.5,USA
+2,FinFlow,fintech,45,,UK
+3,PayPals,Fintech ,50,5.1,USA
+4,Ledgerly,Fin-tech,22,,Estonia
+5,Vaultic,Fintech,38,3.9,Singapore
+... (100 rows total with scattered nulls in Employee_Count and Revenue_M)

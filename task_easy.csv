@@ -1,0 +1,14 @@
+Startup_ID,Name,Industry,Employee_Count,Revenue_M,Country
+1,CloudScale,SaaS,120,15.5,USA
+2,FinFlow,Fintech,45,4.2,UK
+... (rows 3-11)
+12,DataViz,Analytics,30,,Germany
+... (rows 13-27)
+28,GreenGrid,Energy,85,,Canada
+... (rows 29-44)
+45,BioTech,Health,200,,France
+... (rows 46-66)
+67,EduPath,EdTech,15,,Australia
+... (rows 68-88)
+89,CyberGuard,Security,60,,Japan
+... (rows 90-100)
